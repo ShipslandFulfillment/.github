@@ -41,6 +41,3 @@ Daha fazla bilgi ve işbirliği için bizimle iletişime geçebilirsiniz:
 
 - Web Sitesi: [www.shipsland.com](https://www.shipsland.com)
 - E-posta: info@shipsland.com
-- Telefon: +90 123 456 7890
-
-Shipsland ile, geleceğin iş dünyasında başarıya bir adım daha yakınsınız!
